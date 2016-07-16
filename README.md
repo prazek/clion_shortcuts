@@ -3,9 +3,11 @@ Clion shortcuts configuration for mac and linux
 
 I always try to unify shortcuts for most applications like IDE, browser, console etc. Here is a list of things that I changed in my clion configuration. You can also download this config for mac or linux from *.jar files.
 
+Use search option to find all actions to change.
+
 Browser like options:
 
-Close active tab
+EditorTabs -> Close 
 - Mac - "command +W" - 
 - Linux - "ctrl + W"
 
