@@ -42,5 +42,8 @@ Related symbol (go between header and implementation)
 - Mac - "command + ~"
 - Linux - "ctrl + ~"
 
-Extend section
+Extend selection
 - Linux - "ctrl + E"
+
+Shrink selection
+- Linux - "ctrl + shift + E"
