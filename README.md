@@ -41,3 +41,6 @@ Line (goto line like in eclipse)
 Related symbol (go between header and implementation)
 - Mac - "command + ~"
 - Linux - "ctrl + ~"
+
+Extend section
+- Linux - "ctrl + E"
